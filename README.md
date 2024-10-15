@@ -1,4 +1,4 @@
-# DesafioProjeto_OrientacaoObjetos_GFTStart
+
 # Desafio de Projeto: Orientação à Objetos 
 
 ## Autor
