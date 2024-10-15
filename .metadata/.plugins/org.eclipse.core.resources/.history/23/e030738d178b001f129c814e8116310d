@@ -1,0 +1,12 @@
+package classes;
+
+public interface Heroi {
+	
+	public static String nome = "";
+	public static int idade = 0;
+	public static String tipo = ""; 
+	
+	public static  void atacar() {
+		
+	}
+}

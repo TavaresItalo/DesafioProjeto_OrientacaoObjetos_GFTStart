@@ -1,0 +1,13 @@
+package modelo;
+
+public class Heroi {
+	
+	private static String nome;
+	private static int idade;
+	private static Classe classe;
+	private static int vida;
+	private static int ataque;
+	
+	
+	
+}

@@ -1,0 +1,11 @@
+package classes;
+
+public class Mago impl {
+
+	@Override
+	public void atacar() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

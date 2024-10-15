@@ -1,0 +1,10 @@
+package modelo;
+
+public class Classe {
+	
+	private  int vida;
+	private  int ataque;
+	
+	
+	
+}

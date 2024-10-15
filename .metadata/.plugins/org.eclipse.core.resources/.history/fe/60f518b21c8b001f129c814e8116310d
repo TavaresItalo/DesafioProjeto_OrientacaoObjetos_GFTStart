@@ -1,0 +1,11 @@
+package modelo;
+
+public class Ninja extends Heroi {
+
+	private String arma_ataque = "shuriken";
+	
+	public Ninja(String nome, int idade) {
+		super(nome, idade);
+		// TODO Auto-generated constructor stub
+	}
+}
